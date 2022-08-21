@@ -1,0 +1,38 @@
+name: ishari
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  lottie: 1.4.0
+  just_audio: 0.9.28
+  dropdown_search: 5.0.2
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/lotties/
+    - assets/images/
+    - assets/muhud.json
+    - assets/muhud_detail.json
+  fonts: 
+    - family: Amiri
+      fonts: 
+        - asset: assets/fonts/Amiri-Regular.ttf
+        - asset: assets/fonts/Amiri-Bold.ttf
+          weight: 700
+    - family: Gulzar
+      fonts: 
+        - asset: assets/fonts/Gulzar-Regular.ttf
+  uses-material-design: true
+

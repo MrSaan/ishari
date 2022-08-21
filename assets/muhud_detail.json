@@ -1,0 +1,1927 @@
+{
+    "data": {
+        "Ibtida": {
+            "number": 1,
+            "numberOfDiwanHadrah": 1,
+            "numberOfMaulidSyarofulAnam": 1,
+            "name": {
+                "short": "اإلبتداء",
+                "long": " مخط إلبتداء",
+                "transliteration": {
+                    "arab": "Ibtida'",
+                    "id": "Ibtida"
+                },
+                "translation": {
+                    "id": "Permulaan"
+                }
+            },
+            "diwanHadrah": [
+                {
+                    "number": {
+                        "inDiwan": 1,
+                        "inMuhud": 1
+                    },
+                    "text": {
+                        "arab": "الْالِفُ  اوَّلَ الْكَلَامِ يَا مَجِيدُ",
+                        "transliteration": "al alif awwal kalami ya majid"
+                    },
+                    "translation": {
+                        "id": "Huruf Alif adalah awal kalimatku wahai Dzat yang Mulya"
+                    },
+                    "audio": {
+                        "primary": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/262.mp3"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 2,
+                        "inMuhud": 2
+                    },
+                    "text": {
+                        "arab": "الْبَاءُ بِاللَّهِ التَّوْفِيقُ يَا شَهِيدُ",
+                        "transliteration": "alba'u billahi taufiq ya syahiid"
+                    },
+                    "translation": {
+                        "id": "Huruf Baa’ adalah billah, hanya dengan pertolongan Alloh kami mendapatkan taufiq Wahai Dzat yang maha menyaksikan"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/file/d/14ADrzqRHzC3GE8wfqB1kzGJ8HlEIJ8vM/view?usp=sharing"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 3,
+                        "inMuhud": 3
+                    },
+                    "text": {
+                        "arab": "التَّاءُ تَوَبًا نَصُوحًا يَا رَشِيدُ",
+                        "transliteration": "attau tawaban nasuukhaa yaa rasid"
+                    },
+                    "translation": {
+                        "id": "Huruf Taa’ adalah tauban, beri kami Taubat yang baik wahai dzat yang maha pemberi petunjuk"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 4,
+                        "inMuhud": 4
+                    },
+                    "text": {
+                        "arab": "الثَّاءُ ثَوَابًا جَزِيلًا يَا مُعِيدُ",
+                        "transliteration": "atsau tsawabanjazilayaa mu'id"
+                    },
+                    "translation": {
+                        "id": "Huruf Tsaa’ adalah tsawab, beri kami pahala yang agung wahai dzat yang maha mengembalikan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 5,
+                        "inMuhud": 5
+                    },
+                    "text": {
+                        "arab": "الْجِيمُ جَمَالٌ لِلَّهِ يَاجَمِيلُ",
+                        "transliteration": "aljimu jamaalulillah yaa jamiil"
+                    },
+                    "translation": {
+                        "id": "Huruf Jim adalah jamal, keindahan adalah milik Alloh wahai Dzat yang maha indah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 6,
+                        "inMuhud": 6
+                    },
+                    "text": {
+                        "arab": "الْحَاءُ حَمِيْدُ اللَّهِ يَا حَمِيْدُ",
+                        "transliteration": "alkhaa u khamidullah yaa khamid"
+                    },
+                    "translation": {
+                        "id": "Huruf Khaa adalah khamiid, dialah Nabi Muhammad yang terpuji oleh Alloh Wahai Dzat yang terpuji"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 7,
+                        "inMuhud": 7
+                    },
+                    "text": {
+                        "arab": "الْخَاءُ خَتَمُ الرُّسُلِ الْخِتَامُ",
+                        "transliteration": "Alkho u khotamurrusulil khitami"
+                    },
+                    "translation": {
+                        "id": "Huruf Khoo’ adalah khotam, dialah Nabi Muhammad pamungkas para utusan Alloh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                }
+            ],
+            "syarofulAnam": [
+                {
+                    "number": {
+                        "inSyaroful": 1,
+                        "inMuhud": 8
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ زَيْنُ الْأَنْبِيَاءِ",
+                        "transliteration": "assalamu 'alaika zainal ambiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai hiasan para Nabi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 2,
+                        "inMuhud": 9
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَتْقَى الْأَنْقِيَاءِ",
+                        "transliteration": "assalamu 'alaika atqol atqiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Penghulu orang-orang yang bertaqwa"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 3,
+                        "inMuhud": 10
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَصْفَى الْأَصْفِيَاءِ",
+                        "transliteration": "assalamu 'alaika ashfal ashfiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai penghulu orang -orang berhati bersih"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 4,
+                        "inMuhud": 11
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا أَزْكَى الْأَزْكِيَاءِ",
+                        "transliteration": "assalamu 'alaika yaa azjal azkiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai penghulu orang -orang yang Baik"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 5,
+                        "inMuhud": 12
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ مِنْ رَبِّ السَّمَاءِ",
+                        "transliteration": "assalamu 'alaika mirrabbis samaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu dari Tuhan pemelihara Langit"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 6,
+                        "inMuhud": 13
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ دَائِمًا بِلَا انْقِضَاءٍ",
+                        "transliteration": "assalamu 'alaika da imam bilan qidoo i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu selamanya tanpa batas"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 7,
+                        "inMuhud": 14
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَحْمَدُ يَا حَبِيبِي",
+                        "transliteration": "assalamu 'alaika ahmaduyaa khabiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Nabi Ahmad, kekasihku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 8,
+                        "inMuhud": 15
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ طَهَ يَا طَبِيبِي",
+                        "transliteration": "assalamu 'alaika thoha yaa thobiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Thoha pengobat Hatiku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 9,
+                        "inMuhud": 16
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا مِسْكِي وَطَيبِي",
+                        "transliteration": "assalamu 'alaika yaa miskii wa thiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai misik dan pengharumku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 10,
+                        "inMuhud": 17
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا مَاحِيَ الذْ نُوبْ",
+                        "transliteration": "assalamu 'alaika yaa maa khiidz dzunuubi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pelebur dosa dosaku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 11,
+                        "inMuhud": 18
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا عَوْنَ الْغَرِيب",
+                        "transliteration": "assalamu 'alaika yaa 'aunal ghoriibi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penolong orang dalam rantauan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 12,
+                        "inMuhud": 19
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَحْمَدُ يَا مُحَمَّدُ",
+                        "transliteration": "assalamu 'alaika ahmadu yaa muhammad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Nabi Ahmad, nabi Muhammad"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 13,
+                        "inMuhud": 20
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ طَهَ يَا مُمَجِّدُ",
+                        "transliteration": "assalamu 'alaika thoha yaa mumajjad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Nabi Thoha yang termulya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 14,
+                        "inMuhud": 21
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا كَهْفًا وَمَقْصَدْ",
+                        "transliteration": "assalamu 'alaika yaa kahfaaw wamaqshod"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai nabi tempat berlindung dan tujuanku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 15,
+                        "inMuhud": 22
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حَسَنًا تَفَرَّدْ",
+                        "transliteration": "assalamu 'alaika yaa khasanan tafarrad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai nabi yang kebaikannya tiada dua"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 16,
+                        "inMuhud": 23
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا جَالِي الْكُرُوب",
+                        "transliteration": "assalamu 'alaika yaa jalil kuruubi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penghapus kesusahan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 17,
+                        "inMuhud": 24
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَخَيْرَ الْأَنَامِ",
+                        "transliteration": "assalamu 'alaika yaa khoirol anaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai sebaik baik manusia"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 18,
+                        "inMuhud": 25
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا بَدْرَ التَّمَامِ",
+                        "transliteration": "assalamu 'alaika yaa badrat tamaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai rembulan yang sempurna"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 19,
+                        "inMuhud": 26
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا نُورَ الظَّلَامِ",
+                        "transliteration": "assalamu 'alaika yaa nuurad dholaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Pelita dalam kegelapan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 20,
+                        "inMuhud": 27
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا كُلَّ الْمَرَامِ",
+                        "transliteration": "assalamu 'alaika yaa kullal maraami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Tumpuan permohonan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 21,
+                        "inMuhud": 28
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذَا الْمُعْجِزَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal mu'jizaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pemilik berbagai mukjizat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 22,
+                        "inMuhud": 29
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَاذَا الْبَيِّنَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal baiyyinaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pemilik berbagai penjelasan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 23,
+                        "inMuhud": 30
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا هَادِى الْهُدَاةِ",
+                        "transliteration": "assalamu 'alaika yaa haadil hudaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penghulu pemberi petunjuk"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 24,
+                        "inMuhud": 31
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذُخْرَا لَعُصَاةِ",
+                        "transliteration": "assalamu 'alaika yaa dukhraal 'ushooti"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyelamat orang-orang maksiyat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 25,
+                        "inMuhud": 32
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حُسْنَ الصِّفَاتِ",
+                        "transliteration": "assalamu 'alaika yaa khusnash shofaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki sifat sifat indah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 26,
+                        "inMuhud": 33
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذَا الْمَوْا هِبَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal mau hibaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki berbagai pemberian"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 27,
+                        "inMuhud": 34
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا رُكْنَ الصَّلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa zuknash sholaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pokok segala kebaikan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 28,
+                        "inMuhud": 35
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا رَبّ السَّمَاحِ",
+                        "transliteration": "assalamu 'alaika yaa rabbas samaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki murah hati"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 29,
+                        "inMuhud": 36
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا زَيْنَ الْمَلَّاحِ",
+                        "transliteration": "assalamu 'alaika yaa zainal malaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai perhiasan terindah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 30,
+                        "inMuhud": 37
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا دَاعِى الْفَلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa daa'il falaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyeru kepada keberuntungan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 31,
+                        "inMuhud": 38
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا نُورَ الصَّبَاحِ",
+                        "transliteration": "assalamu 'alaika yaa nuurash shobaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai lentera diwaktu subuh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 32,
+                        "inMuhud": 39
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حَيَّ الْفَلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa khayyal falaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyemangat kepada keberuntungan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 33,
+                        "inMuhud": 40
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ضَوْءَ الْبَصَائِرِ",
+                        "transliteration": "assalamu 'alaika yaa dhow al bashoo ir"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai lentera mata hati"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 34,
+                        "inMuhud": 41
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا عَالِي الْمَفَاخِرِ",
+                        "transliteration": "assalamu 'alaika yaa 'aaliil mafaakhir'"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang bermartabat tinggi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 35,
+                        "inMuhud": 42
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا بَحْرَ الذَّخَائِرِ",
+                        "transliteration": "assalamu 'alaika yaa bakhradz dzakho ir"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai samudera penuh simpanan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 36,
+                        "inMuhud": 43
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُقَدَّمِ لِلْإِمَامَةِ",
+                        "transliteration": "assalamu 'alal muqadda milil imaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang dikedepankan sebagai imam"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 37,
+                        "inMuhud": 44
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُشَفَّع فِي الْقِيَامَةِ",
+                        "transliteration": "assalamu 'alal musyaffa'ifiil qiyaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi pemberi pertolongan dihari kiyamat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 38,
+                        "inMuhud": 45
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُظَلَّل بِالْغَمَامَة",
+                        "transliteration": "assalamu 'alal mudholla libil ghomaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang dinaungi awan dari terik matahari"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 39,
+                        "inMuhud": 46
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُتَوَّجِ بِالْكَرَامَةِ",
+                        "transliteration": "assalamu 'alal mutawwa jibil karaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang diberi mahkota kemulyaan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 40,
+                        "inMuhud": 47
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْخُلَاصَةِ مِنْ تِهَامَة",
+                        "transliteration": "assalamu 'alal khulaashoti mintihaa mah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang terlahir dari kota Tihamah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 41,
+                        "inMuhud": 48
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُبَشِّرِ بِالسَلَامَةِ",
+                        "transliteration": "assalamu 'alal mubassyiri bii salaa mah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi pembawa kabar gembira keselamatan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 42,
+                        "inMuhud": 49
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي مُحَمَّدِ الرَّسُولِ",
+                        "transliteration": "assalamu 'alal muhammadirrasuuli"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi Muhammad Utusan Alloh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 43,
+                        "inMuhud": 50
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي النَّبِيِّ أَبِى الْبُتُولِ",
+                        "transliteration": "assalamu 'alan nabiyyi abiilbatuuli"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi Ayahanda perempuan bercahaya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 44,
+                        "inMuhud": 51
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا وَجْهَ الْجَمِيلِ",
+                        "transliteration": "assalamu 'alaka yaa wajhal jamiili"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang berwajah tampan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 45,
+                        "inMuhud": 52
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْخَلِيفَةِ مِنْكَ فِينَا",
+                        "transliteration": "assalamu 'alal kholiifati minka fiina"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk para Kholifah (pengganti) dariMu untuk Kita"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 46,
+                        "inMuhud": 53
+                    },
+                    "text": {
+                        "arab": "أَبِي بَكْرٍ مُبِيْدِ الْجَاحِدِينَا",
+                        "transliteration": "abii bakrin mubii diljaa khidiinaa"
+                    },
+                    "translation": {
+                        "id": "Yaitu Sayyid Abu Bakar pemberantas orang orang yang Murtad"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 47,
+                        "inMuhud": 54
+                    },
+                    "text": {
+                        "arab": "كَذَا عُمَرُ وَلِيُّ الصَّالِحِيْنَا",
+                        "transliteration": "kadhaa 'umaru waliyyuu shoo likhiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid Umar Bin Khottob penghulu orang orang sholeh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 48,
+                        "inMuhud": 55
+                    },
+                    "text": {
+                        "arab": "وَذِي النُّورَيْنِ رَأْسُ النَّاسِكِيْنَا",
+                        "transliteration": "wadhin nuuraini roksunnaa sikiinaa"
+                    },
+                    "translation": {
+                        "id": "Dan pemilik dua cahaya (Sayyid Utsman bin Affan) pemimpin orang orang ahli Ibadah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 49,
+                        "inMuhud": 56
+                    },
+                    "text": {
+                        "arab": "وَكَذَاكَ عَلِيٌّ السَّامِي يَقِينًا",
+                        "transliteration": "wakadhaa ka 'aliyyussaa mii yaqiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid ali bin Abi Tholib yang berkeyakinan Tinggi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 50,
+                        "inMuhud": 57
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَى أَصْحَابِكَ أَجْمَعِينَا",
+                        "transliteration": "assalamu 'ala ashkhaa bika aj ma'iinaa"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk para Sahabat Mu semuanya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 51,
+                        "inMuhud": 58
+                    },
+                    "text": {
+                        "arab": "وَكَذَا الْحَسَنَان خَيْرَا الْعَالَمِيْنَا",
+                        "transliteration": "wakadhaal khasanaani khoiraal 'aalamiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid hasan dan Husain sebaik baiknya orang di alam ini"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 52,
+                        "inMuhud": 59
+                    },
+                    "text": {
+                        "arab": "وَأَلِكَ كُلُّهِمْ وَالتَّابِعِينَ وَالتَّابِعِ التَّابِعِينَ",
+                        "transliteration": "walika kullihim watta bi'iina wattaa bi'iittaa bi'iina"
+                    },
+                    "translation": {
+                        "id": "Dan juga kepada KeluargaMu dan pengikutMu serta semua yang mengikuti pengikutMU"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                }
+            ],
+            "muhud": [
+                {
+                    "number": {
+                        "inDiwan": 1,
+                        "inMuhud": 1
+                    },
+                    "text": {
+                        "arab": "الْالِفُ  اوَّلَ الْكَلَامِ يَا مَجِيدُ",
+                        "transliteration": "al alif awwal kalami ya majid"
+                    },
+                    "translation": {
+                        "id": "Huruf Alif adalah awal kalimatku wahai Dzat yang Mulya"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                        "joss": {
+                            "Amar": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar1": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar2": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar3": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt"
+                        },
+                        "yahoum": {
+                            "Amar": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar1": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar2": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt",
+                            "Amar3": "https://drive.google.com/uc?export=view&id=14560uzRX3y3kNCzuWJY2t1LyI69-vfmt"
+                        }
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 2,
+                        "inMuhud": 2
+                    },
+                    "text": {
+                        "arab": "الْبَاءُ بِاللَّهِ التَّوْفِيقُ يَا شَهِيدُ",
+                        "transliteration": "alba'u billahi taufiq ya syahiid"
+                    },
+                    "translation": {
+                        "id": "Huruf Baa’ adalah billah, hanya dengan pertolongan Alloh kami mendapatkan taufiq Wahai Dzat yang maha menyaksikan"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14ADrzqRHzC3GE8wfqB1kzGJ8HlEIJ8vM"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 3,
+                        "inMuhud": 3
+                    },
+                    "text": {
+                        "arab": "التَّاءُ تَوَبًا نَصُوحًا يَا رَشِيدُ",
+                        "transliteration": "attau tawaban nasuukhaa yaa rasid"
+                    },
+                    "translation": {
+                        "id": "Huruf Taa’ adalah tauban, beri kami Taubat yang baik wahai dzat yang maha pemberi petunjuk"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14HXb2bu33Eg3_1ojwKgIkCMaBHpE2vQY"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 4,
+                        "inMuhud": 4
+                    },
+                    "text": {
+                        "arab": "الثَّاءُ ثَوَابًا جَزِيلًا يَا مُعِيدُ",
+                        "transliteration": "atsau tsawabanjazilayaa mu'id"
+                    },
+                    "translation": {
+                        "id": "Huruf Tsaa’ adalah tsawab, beri kami pahala yang agung wahai dzat yang maha mengembalikan"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14K1XpN5MHF8W7EMizKBCpV8DYMuJoTfp"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 5,
+                        "inMuhud": 5
+                    },
+                    "text": {
+                        "arab": "الْجِيمُ جَمَالٌ لِلَّهِ يَاجَمِيلُ",
+                        "transliteration": "aljimu jamaalulillah yaa jamiil"
+                    },
+                    "translation": {
+                        "id": "Huruf Jim adalah jamal, keindahan adalah milik Alloh wahai Dzat yang maha indah"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14CC7ixLKWI6rkv2_6CdY4gCE5lwZn4em"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 6,
+                        "inMuhud": 6
+                    },
+                    "text": {
+                        "arab": "الْحَاءُ حَمِيْدُ اللَّهِ يَا حَمِيْدُ",
+                        "transliteration": "alkhaa u khamidullah yaa khamid"
+                    },
+                    "translation": {
+                        "id": "Huruf Khaa adalah khamiid, dialah Nabi Muhammad yang terpuji oleh Alloh Wahai Dzat yang terpuji"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14FStb4-8jncfCT8CHzEC8f3_FBoA8PWe"
+                    }
+                },
+                {
+                    "number": {
+                        "inDiwan": 7,
+                        "inMuhud": 7
+                    },
+                    "text": {
+                        "arab": "الْخَاءُ خَتَمُ الرُّسُلِ الْخِتَامُ",
+                        "transliteration": "Alkho u khotamurrusulil khitami"
+                    },
+                    "translation": {
+                        "id": "Huruf Khoo’ adalah khotam, dialah Nabi Muhammad pamungkas para utusan Alloh"
+                    },
+                    "audio": {
+                        "primary": "https://drive.google.com/uc?export=view&id=14G1S9yNq3aQMcAqysf37tqNVsFP0wj_N"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 1,
+                        "inMuhud": 8
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ زَيْنُ الْأَنْبِيَاءِ",
+                        "transliteration": "assalamu 'alaika zainal ambiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai hiasan para Nabi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 2,
+                        "inMuhud": 9
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَتْقَى الْأَنْقِيَاءِ",
+                        "transliteration": "assalamu 'alaika atqol atqiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Penghulu orang-orang yang bertaqwa"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 3,
+                        "inMuhud": 10
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَصْفَى الْأَصْفِيَاءِ",
+                        "transliteration": "assalamu 'alaika ashfal ashfiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai penghulu orang -orang berhati bersih"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 4,
+                        "inMuhud": 11
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا أَزْكَى الْأَزْكِيَاءِ",
+                        "transliteration": "assalamu 'alaika yaa azjal azkiyaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai penghulu orang -orang yang Baik"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 5,
+                        "inMuhud": 12
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ مِنْ رَبِّ السَّمَاءِ",
+                        "transliteration": "assalamu 'alaika mirrabbis samaa i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu dari Tuhan pemelihara Langit"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 6,
+                        "inMuhud": 13
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ دَائِمًا بِلَا انْقِضَاءٍ",
+                        "transliteration": "assalamu 'alaika da imam bilan qidoo i"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu selamanya tanpa batas"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 7,
+                        "inMuhud": 14
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَحْمَدُ يَا حَبِيبِي",
+                        "transliteration": "assalamu 'alaika ahmaduyaa khabiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Nabi Ahmad, kekasihku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 8,
+                        "inMuhud": 15
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ طَهَ يَا طَبِيبِي",
+                        "transliteration": "assalamu 'alaika thoha yaa thobiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu Wahai Thoha pengobat Hatiku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 9,
+                        "inMuhud": 16
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا مِسْكِي وَطَيبِي",
+                        "transliteration": "assalamu 'alaika yaa miskii wa thiibii"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai misik dan pengharumku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 10,
+                        "inMuhud": 17
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا مَاحِيَ الذْ نُوبْ",
+                        "transliteration": "assalamu 'alaika yaa maa khiidz dzunuubi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pelebur dosa dosaku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 11,
+                        "inMuhud": 18
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا عَوْنَ الْغَرِيب",
+                        "transliteration": "assalamu 'alaika yaa 'aunal ghoriibi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penolong orang dalam rantauan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 12,
+                        "inMuhud": 19
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ أَحْمَدُ يَا مُحَمَّدُ",
+                        "transliteration": "assalamu 'alaika ahmadu yaa muhammad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Nabi Ahmad, nabi Muhammad"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 13,
+                        "inMuhud": 20
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ طَهَ يَا مُمَجِّدُ",
+                        "transliteration": "assalamu 'alaika thoha yaa mumajjad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Nabi Thoha yang termulya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 14,
+                        "inMuhud": 21
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا كَهْفًا وَمَقْصَدْ",
+                        "transliteration": "assalamu 'alaika yaa kahfaaw wamaqshod"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai nabi tempat berlindung dan tujuanku"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 15,
+                        "inMuhud": 22
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حَسَنًا تَفَرَّدْ",
+                        "transliteration": "assalamu 'alaika yaa khasanan tafarrad"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai nabi yang kebaikannya tiada dua"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 16,
+                        "inMuhud": 23
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا جَالِي الْكُرُوب",
+                        "transliteration": "assalamu 'alaika yaa jalil kuruubi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penghapus kesusahan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 17,
+                        "inMuhud": 24
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَخَيْرَ الْأَنَامِ",
+                        "transliteration": "assalamu 'alaika yaa khoirol anaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai sebaik baik manusia"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 18,
+                        "inMuhud": 25
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا بَدْرَ التَّمَامِ",
+                        "transliteration": "assalamu 'alaika yaa badrat tamaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai rembulan yang sempurna"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 19,
+                        "inMuhud": 26
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا نُورَ الظَّلَامِ",
+                        "transliteration": "assalamu 'alaika yaa nuurad dholaami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Pelita dalam kegelapan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 20,
+                        "inMuhud": 27
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا كُلَّ الْمَرَامِ",
+                        "transliteration": "assalamu 'alaika yaa kullal maraami"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai Tumpuan permohonan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 21,
+                        "inMuhud": 28
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذَا الْمُعْجِزَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal mu'jizaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pemilik berbagai mukjizat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 22,
+                        "inMuhud": 29
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَاذَا الْبَيِّنَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal baiyyinaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pemilik berbagai penjelasan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 23,
+                        "inMuhud": 30
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا هَادِى الْهُدَاةِ",
+                        "transliteration": "assalamu 'alaika yaa haadil hudaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penghulu pemberi petunjuk"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 24,
+                        "inMuhud": 31
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذُخْرَا لَعُصَاةِ",
+                        "transliteration": "assalamu 'alaika yaa dukhraal 'ushooti"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyelamat orang-orang maksiyat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 25,
+                        "inMuhud": 32
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حُسْنَ الصِّفَاتِ",
+                        "transliteration": "assalamu 'alaika yaa khusnash shofaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki sifat sifat indah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 26,
+                        "inMuhud": 33
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ذَا الْمَوْا هِبَاتِ",
+                        "transliteration": "assalamu 'alaika yaa dzal mau hibaati"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki berbagai pemberian"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 27,
+                        "inMuhud": 34
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا رُكْنَ الصَّلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa zuknash sholaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai pokok segala kebaikan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 28,
+                        "inMuhud": 35
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا رَبّ السَّمَاحِ",
+                        "transliteration": "assalamu 'alaika yaa rabbas samaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang memiliki murah hati"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 29,
+                        "inMuhud": 36
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا زَيْنَ الْمَلَّاحِ",
+                        "transliteration": "assalamu 'alaika yaa zainal malaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai perhiasan terindah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 30,
+                        "inMuhud": 37
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا دَاعِى الْفَلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa daa'il falaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyeru kepada keberuntungan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 31,
+                        "inMuhud": 38
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا نُورَ الصَّبَاحِ",
+                        "transliteration": "assalamu 'alaika yaa nuurash shobaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai lentera diwaktu subuh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 32,
+                        "inMuhud": 39
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا حَيَّ الْفَلَاحِ",
+                        "transliteration": "assalamu 'alaika yaa khayyal falaakhi"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai penyemangat kepada keberuntungan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 33,
+                        "inMuhud": 40
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا ضَوْءَ الْبَصَائِرِ",
+                        "transliteration": "assalamu 'alaika yaa dhow al bashoo ir"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai lentera mata hati"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 34,
+                        "inMuhud": 41
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا عَالِي الْمَفَاخِرِ",
+                        "transliteration": "assalamu 'alaika yaa 'aaliil mafaakhir'"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang bermartabat tinggi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 35,
+                        "inMuhud": 42
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا بَحْرَ الذَّخَائِرِ",
+                        "transliteration": "assalamu 'alaika yaa bakhradz dzakho ir"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai samudera penuh simpanan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 36,
+                        "inMuhud": 43
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُقَدَّمِ لِلْإِمَامَةِ",
+                        "transliteration": "assalamu 'alal muqadda milil imaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang dikedepankan sebagai imam"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 37,
+                        "inMuhud": 44
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُشَفَّع فِي الْقِيَامَةِ",
+                        "transliteration": "assalamu 'alal musyaffa'ifiil qiyaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi pemberi pertolongan dihari kiyamat"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 38,
+                        "inMuhud": 45
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُظَلَّل بِالْغَمَامَة",
+                        "transliteration": "assalamu 'alal mudholla libil ghomaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang dinaungi awan dari terik matahari"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 39,
+                        "inMuhud": 46
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُتَوَّجِ بِالْكَرَامَةِ",
+                        "transliteration": "assalamu 'alal mutawwa jibil karaamah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang diberi mahkota kemulyaan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 40,
+                        "inMuhud": 47
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْخُلَاصَةِ مِنْ تِهَامَة",
+                        "transliteration": "assalamu 'alal khulaashoti mintihaa mah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi yang terlahir dari kota Tihamah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 41,
+                        "inMuhud": 48
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْمُبَشِّرِ بِالسَلَامَةِ",
+                        "transliteration": "assalamu 'alal mubassyiri bii salaa mah"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi pembawa kabar gembira keselamatan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 42,
+                        "inMuhud": 49
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي مُحَمَّدِ الرَّسُولِ",
+                        "transliteration": "assalamu 'alal muhammadirrasuuli"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi Muhammad Utusan Alloh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 43,
+                        "inMuhud": 50
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي النَّبِيِّ أَبِى الْبُتُولِ",
+                        "transliteration": "assalamu 'alan nabiyyi abiilbatuuli"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk nabi Ayahanda perempuan bercahaya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 44,
+                        "inMuhud": 51
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَيْكَ يَا وَجْهَ الْجَمِيلِ",
+                        "transliteration": "assalamu 'alaka yaa wajhal jamiili"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untukMu wahai yang berwajah tampan"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 45,
+                        "inMuhud": 52
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَي الْخَلِيفَةِ مِنْكَ فِينَا",
+                        "transliteration": "assalamu 'alal kholiifati minka fiina"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk para Kholifah (pengganti) dariMu untuk Kita"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 46,
+                        "inMuhud": 53
+                    },
+                    "text": {
+                        "arab": "أَبِي بَكْرٍ مُبِيْدِ الْجَاحِدِينَا",
+                        "transliteration": "abii bakrin mubii diljaa khidiinaa"
+                    },
+                    "translation": {
+                        "id": "Yaitu Sayyid Abu Bakar pemberantas orang orang yang Murtad"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 47,
+                        "inMuhud": 54
+                    },
+                    "text": {
+                        "arab": "كَذَا عُمَرُ وَلِيُّ الصَّالِحِيْنَا",
+                        "transliteration": "kadhaa 'umaru waliyyuu shoo likhiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid Umar Bin Khottob penghulu orang orang sholeh"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 48,
+                        "inMuhud": 55
+                    },
+                    "text": {
+                        "arab": "وَذِي النُّورَيْنِ رَأْسُ النَّاسِكِيْنَا",
+                        "transliteration": "wadhin nuuraini roksunnaa sikiinaa"
+                    },
+                    "translation": {
+                        "id": "Dan pemilik dua cahaya (Sayyid Utsman bin Affan) pemimpin orang orang ahli Ibadah"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 49,
+                        "inMuhud": 56
+                    },
+                    "text": {
+                        "arab": "وَكَذَاكَ عَلِيٌّ السَّامِي يَقِينًا",
+                        "transliteration": "wakadhaa ka 'aliyyussaa mii yaqiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid ali bin Abi Tholib yang berkeyakinan Tinggi"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 50,
+                        "inMuhud": 57
+                    },
+                    "text": {
+                        "arab": "السَّلَامُ عَلَى أَصْحَابِكَ أَجْمَعِينَا",
+                        "transliteration": "assalamu 'ala ashkhaa bika aj ma'iinaa"
+                    },
+                    "translation": {
+                        "id": "Salam sejahtera mudah-mudahan tetap untuk para Sahabat Mu semuanya"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 51,
+                        "inMuhud": 58
+                    },
+                    "text": {
+                        "arab": "وَكَذَا الْحَسَنَان خَيْرَا الْعَالَمِيْنَا",
+                        "transliteration": "wakadhaal khasanaani khoiraal 'aalamiinaa"
+                    },
+                    "translation": {
+                        "id": "Demikian pula Sayyid hasan dan Husain sebaik baiknya orang di alam ini"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                },
+                {
+                    "number": {
+                        "inSyaroful": 52,
+                        "inMuhud": 59
+                    },
+                    "text": {
+                        "arab": "وَأَلِكَ كُلُّهِمْ وَالتَّابِعِينَ وَالتَّابِعِ التَّابِعِينَ",
+                        "transliteration": "walika kullihim watta bi'iina wattaa bi'iittaa bi'iina"
+                    },
+                    "translation": {
+                        "id": "Dan juga kepada KeluargaMu dan pengikutMu serta semua yang mengikuti pengikutMU"
+                    },
+                    "audio": {
+                        "primary": "cooming soon"
+                    }
+                }
+            ]
+        },
+        "Bisyahri": {}
+    }
+}

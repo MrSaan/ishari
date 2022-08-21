@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "number": 1,
+            "numberOfVerses": 59,
+            "name": {
+                "short": "اإلبتداء",
+                "long": " مخط إلبتداء",
+                "transliteration": {
+                    "arab": "Ibtida'",
+                    "id": "Ibtida"
+                },
+                "translation": {
+                    "id": "Permulaan"
+                }
+            }
+        },
+        {
+            "number": 2,
+            "numberOfVerses": 47,
+            "name": {
+                "short": "بِشَهْرِ",
+                "long": "مخط بِشَهْرِ",
+                "transliteration": {
+                    "arab": "Bisyahri'",
+                    "id": "Bisyahri"
+                },
+                "translation": {
+                    "id": "Rembulan"
+                }
+            }
+        },
+        {
+            "number": 3,
+            "numberOfVerses": 42,
+            "name": {
+                "short": "تَنَقَّلْتَ",
+                "long": "مخط تَنَقَّلْتَ",
+                "transliteration": {
+                    "arab": "Tanaqal",
+                    "id": "Tanaqal"
+                },
+                "translation": {
+                    "id": "Nur Muhammad"
+                }
+            }
+        },
+        {
+            "number": 4,
+            "numberOfVerses": 1,
+            "name": {
+                "short": "وُلِدَالْحَبِيْبُ",
+                "long": "مخط وُلِدَالْحَبِيْبُ",
+                "transliteration": {
+                    "arab": "Wulidal khabiib",
+                    "id": "Wulidal Habib"
+                },
+                "translation": {
+                    "id": ""
+                }
+            }
+        },
+        {
+            "number": 5,
+            "numberOfVerses": 1,
+            "name": {
+                "short": "صَلَّى عَلَيْكَ",
+                "long": "مخط صَلَّى عَلَيْكَ",
+                "transliteration": {
+                    "arab": "Shollaa 'Alaiika",
+                    "id": "Sholla 'Alaika"
+                },
+                "translation": {
+                    "id": ""
+                }
+            }
+        },
+        {
+            "number": 6,
+            "numberOfVerses": 1,
+            "name": {
+                "short": "بَدَتْ لَنَا",
+                "long": "مخط بَدَتْ لَنَا",
+                "transliteration": {
+                    "arab": "Badat Lanaa",
+                    "id": "Badat Lana"
+                },
+                "translation": {
+                    "id": ""
+                }
+            }
+        },
+        {
+            "number": 7,
+            "numberOfVerses": 1,
+            "name": {
+                "short": "مَحَلُّ الْقِيَامِ",
+                "long": "مخط مَحَلُّ الْقِيَامِ",
+                "transliteration": {
+                    "arab": "Makhallul Qiyam",
+                    "id": "Mahallul Qiyam"
+                },
+                "translation": {
+                    "id": ""
+                }
+            }
+        },
+        {
+            "number": 8,
+            "numberOfVerses": 1,
+            "name": {
+                "short": "حَبِيْبٌ",
+                "long": "مخط حَبِيْبٌ",
+                "transliteration": {
+                    "arab": "Khabibun",
+                    "id": "Habibun"
+                },
+                "translation": {
+                    "id": ""
+                }
+            }
+        }
+    ]
+}
